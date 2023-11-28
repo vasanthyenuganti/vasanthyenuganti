@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanth1165&label=Profile%20views&color=0e75b6&style=flat" alt="vasanth1165" /> </p>
 
-- 🔭 I’m currently working as a **flutter developer at Technical Hub**
+- 🔭 I’m currently working as a **Flutter developer at Technical Hub**
 
 - 🌱 I’m currently learning **Nodejs, MongoDB**
 
 - 👯 I’m looking to collaborate on **exciting new projects, share insights, or help you navigate the world of Flutter development and app publishing**
 
-- 💬 Ask me about **Flutter, App Publishing.**
+- 💬 Ask me about **Flutter & App Publishing.**
 
 - 📫 How to reach me **vasanthyenuganti1165@gmail.com**
 
