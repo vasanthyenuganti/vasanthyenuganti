@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vasanth Yenuganti</h1>
-<h3 align="center">A passionate flutter developer with a passion for creating stunning, high-performance, cross-platform mobile applications. I thrive on turning innovative ideas into user-friendly digital experiences.</h3>
+<h3 align="center">A dedicated flutter developer with a passion for creating stunning, high-performance, cross-platform mobile applications. I thrive on turning innovative ideas into user-friendly digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanth1165&label=Profile%20views&color=0e75b6&style=flat" alt="vasanth1165" /> </p>
 
+- 🔭 I’m currently working as a **flutter developer at Technical Hub**
+
 - 🌱 I’m currently learning **Nodejs, MongoDB**
+
+- 👯 I’m looking to collaborate on **exciting new projects, share insights, or help you navigate the world of Flutter development and app publishing**
 
 - 💬 Ask me about **Flutter, App Publishing.**
 
