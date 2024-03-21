@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Flutter developer at Technical Hub**
 
-- 🌱 I’m currently learning **Nodejs, MongoDB**
+- 🌱 I’m currently learning **GO, MongoDB**
 
 - 👯 I’m looking to collaborate on **exciting new projects, share insights, or help you navigate the world of Flutter development and app publishing**
 
