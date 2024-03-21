@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **exciting new projects, share insights, or help you navigate the world of Flutter development and app publishing**
 
-- 💬 Ask me about **Flutter & App Publishing.**
+- 💬 Ask me about **Dart, Flutter, FireBase & App Publishing.**
 
 - 📫 How to reach me **vasanthyenuganti1165@gmail.com**
 
