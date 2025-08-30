@@ -80,6 +80,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vasanthyenuganti/vasanthyenuganti/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vasanthyenuganti/output/snake.svg" alt="Snake animation" />
 
 ###
